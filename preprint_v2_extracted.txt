@@ -1,0 +1,814 @@
+=== PAGE 1 ===
+PALIMPSEST
+Diskurs som overflate, infrastruktur som nerver
+Ein materialistisk kritikk av Edward Said sitt Orientalism
+[Forfattar fjerna for blind vurdering] |[Institusjonstilknyting fjerna] |Preprint, februar 2026 
+SAMANDRAG
+Denne  artikkelen  utforskar  spenninga  mellom  diskursanalyse  og  materialistisk  kritikk  gjennom  eit
+kunstnarisk prosjekt: ein palimpsest beståande av Mahmoud Darwish sitt dikt Tibaq  (2003) inskribert på
+industriell prismefolie frå ein demontert LCD-skjerm. Med utgangspunkt i kritikken frå Aijaz Ahmad
+(1992), Vivek Chibber (2018; 2020) og Michael Parenti (1995), argumenterer teksten for at Edward Saids
+Orientalism  (1978) inneheld ein fundamental motseiing mellom eit materialistisk argument — orientalis‐
+men som konsekvens av kolonialismen — og eit idealistisk argument — orientalismen som årsak til kolo‐
+nialismen. Artikkelen demonstrerer at det andre argumentet ikkje kan forklare imperialismens historiske
+mønster: statar intervenerer der materielle interesser er truga, ikkje der orientalistisk diskurs er mest
+intens. Gjennom ei utvida lesing av Darwish sin elegi til Said, visar artikkelen korleis poeten implisitt
+korrigerer Said sine teoretiske inkonsistensar. Omgrepet «oksidentalisme» tener som empirisk motprøve:
+forvrengde vestlege representasjonar har ikkje produsert oksidentalistisk imperialisme, noko som indike‐
+rer  at  makt  følgjer  materielle  strukturar,  ikkje  diskurs.  Verket  visualiserer  denne  kritikken  ved  å  la
+infrastrukturen (prismefolien) fragmentere diskursen (poesien).
+Nøkkelord:  orientalisme, materialisme, imperialisme, palimpsest, Edward Said, Mahmoud Darwish, kontrapunkt
+ABSTRACT
+This article explores the tension between discourse analysis and materialist critique through an artistic
+project: a palimpsest consisting of Mahmoud Darwish's poem Tibaq  (2003) inscribed on industrial prism
+film from a dismantled LCD screen. Drawing on the critiques of Aijaz Ahmad (1992), Vivek Chibber (2018;
+2020) and Michael Parenti (1995), the text argues that Edward Said's Orientalism  (1978) contains a funda‐
+mental contradiction between a materialist argument — Orientalism as a consequence of colonialism — 
+and an idealist argument — Orientalism as a cause of colonialism. The article demonstrates that the latter
+cannot explain historical patterns of imperialism. Through an extended reading of Darwish's elegy for
+Said, the article shows how the poet implicitly corrects Said's theoretical inconsistencies. The concept of
+«Occidentalism» serves as an empirical counter-test: distorted Western representations have not produced
+Occidentalist imperialism, indicating that power follows material structures, not discourse.
+Keywords:  Orientalism, materialism, imperialism, palimpsest, Edward Said, Mahmoud Darwish, counterpoint
+1.  INNLEIING:  EIT  PALIMPSEST  SOM
+ARGUMENT
+Verket som følgjer denne artikkelen er ein materi‐
+ell palimpsest, men ikkje av pergament. Overflata er
+ei  optisk  prismeplate,  henta  ut  av  ein  demontert
+LCD-skjerm,  sjølve  den  fysiske  komponenten  som
+har som oppgåve å spreie og homogenisere lyset ivåre digitale representasjonsmaskiner . På denne in‐
+dustrielle plastfolien, ripete og merka av bruk, er
+Mahmoud Darwish sitt dikt  Tibaq  (2003) skrive for
+hand med svart tusj. Skrifta flyt over dei mikrosko‐
+piske  rillene  som  vanlegvis  styrer  lyset  mot  auga
+våre. Her er det ingen simulert «kald cyan» infra‐
+struktur som ligg under; infrastrukturen er sjølve
+mediet.  Det  er  søppel  frå  informasjonssamfunnet,
+gjenbrukt som bæraranordning for poesi.
+
+=== PAGE 2 ===
+Oppgåva spør etter eit «oksidentaliserande» ut‐
+trykk, korleis det ville sett ut om rollene var rever‐
+serte, om «Østen» konstruerte eit forenkla bilete av
+«Vesten». Men for å svare på dette spørsmålet må
+me  fyrst  undersøkje  premissen  det  kviler  på:  Ed‐
+ward Said sin teori om orientalisme, og dei grunn‐
+leggjande  problema  med  denne  teorien  som  eit
+rammeverk for å forstå makt og dominans.
+Dette notatet argumenterer for at Said sitt verk,
+trass sin enorme innverknad, kviler på ein djup ind‐
+re motseiing som undergrev dets eige kritiske poten‐
+sial. Ved å lokalisere makt i diskurs og representa‐
+sjon heller enn i materielle strukturar , endar Said
+opp med å tilby ein kulturkritikk som fungerer som
+avleiingsmanøver frå dei faktiske mekanismane for
+imperialisme.  Verket  mitt  forsøkjer  å  visualisere
+denne kritikken gjennom palimpsesten si doble le‐
+sing: det vakre kulturelle laget og det brutale infra‐
+strukturelle laget, eksisterande side om side utan å
+påverke kvarandre.
+Denne analysen byggjer på ein rik tradisjon av
+materialistisk  kritikk,  frå  Aijaz  Ahmad  sin
+omfattande gjennomgang i In Theory  (1992) til Vivek
+Chibber  sin  nyare  «Orientalism  and  Its  Afterli‐
+ves»  (2020).  Men  den  hentar  også  innsikter  frå
+Michael Parenti sin  Against Empire  (1995), eit verk
+som tilbyr ein presis definisjon av kva imperialisme
+faktisk er , og dermed eit kriterium for å vurdere om
+Said sitt rammeverk fangar dei vesentlege eigenska‐
+pane ved fenomenet det påstår å analysere.
+Samstundes dreg denne analysen på nyare spe‐
+kulativ  filosofi,  særleg  Armen  Avanessian  og
+Andreas Töpfer (2014) sitt arbeid med  Speculative
+Drawing  og  den  breie  accelerationist-tradisjonen
+dokumentert i  #Accelerate: The Accelerationist Rea‐
+der (Mackay  &  Avanessian,  2014).  Avanessian  og
+Anke Hennig (2015) si utforsking av tid og poetikk i
+Present Tense: A Poetics  tilbyr teoretiske reiskapar
+for  å  forstå  korleis  kritisk  praksis  kan  produsere,
+ikkje berre representere, verkelegheit.Figur 2.  Representasjonsmaskinene si utvikling: frå bok til
+smarttelefon. Mediet endrar seg, men den strukturelle relasjo‐
+nen mellom betraktar og representasjon forblir den same. Kjel‐
+de: Eige illustrasjon.
+2.  VERKET:  MATERIALITET  OG
+KONSTRUKSJON
+Palimpsesten er konstruert av tre hovudlag (sjå Fi‐
+gur 4). Det nedste laget er ei MDF-bakplate som gjev
+strukturell stabilitet. Over denne ligg papirlaget med
+Darwish sin tekst, handskriven i svart tusj. Det øvste
+laget er prismefolien, henta frå ein demontert LCD-
+skjerm — den optiske komponenten som i sin opp‐
+havlege  funksjon  spreier  og  homogeniserer  bak‐
+grunnsbelysning til ein jamn lysflate.
+Prismefolien  er  ikkje  eit  nøytralt  medium.  Dei
+mikroskopiske rillene i overflata bryt lyset i spekt‐
+ralfargar  når  det  passerer  gjennom  (sjå  Figur  3).
+Denne optiske eigenskapen, designa for industriell
+effektivitet, blir i verket ein visuell metafor for for‐
+holdet mellom diskurs og infrastruktur: kalligrafien
+(diskursen)  vert  fragmentert  og  forvrengd  av  dei
+materielle strukturane han er inskribert på. Mate‐
+rialet ber sine eigne spor — folien er ripete og sliten
+frå si tidlegare tenestegjering inne i ein skjerm, mer‐
+ke av bruk som ingen var meint å sjå. Desse ripene
+er like mykje ein del av verket som den kalligraferte
+teksten.
+Valet av materiale er sjølve argumentet: i staden
+for å skrive på pergament eller papir i ei orientalise‐
+rande imitering av islamsk bokkunst, er teksten lagt
+på det industrielle avfallet frå vestleg bildeproduk‐
+sjon. Verket nektar nostalgi og insisterer på det sam‐
+tidige. Det er søppel gjenbrukt som bærar for poesi 
+— og nettopp denne spenninga mellom det poetiske
+innhaldet  og  det  infrastrukturelle  mediet  utgjer
+palimpsesten si doble lesing.
+2
+
+=== PAGE 3 ===
+Figur 3.  Den optiske effekten som teoretisk modell. Utan prismefolie: uforstyrra kulturell representasjon (idealistisk
+diskurs). Gjennom prismefolien: diskursen fragmentert av materielle strukturar (materialistisk røyndom). Det
+analytiske blikket ser gjennom infrastrukturen, men infrastrukturen endrar det ein ser . Kjelde: Eige illustrasjon.
+Figur 4.  Samansetjinga av palimpsesten i eksplodert visning.
+Dei tre laga — prismefolie (frå LCD-skjerm), kalligrafi på papir ,
+og MDF-bakplate — utgjer ein materiell heilskap der kvart lag
+har sin eigen funksjon og symbolikk. Kjelde: Eige illustrasjon.
+3.  SAID  SIN  DOBLE  TESE:  EIN  INDRE
+MOTSEIING
+Edward  Said  sitt  Orientalism  (1978)  har  hatt  ein
+nærast uovertruffen innverknad på humaniora og
+samfunnsvitskap dei siste femti åra. Boka argumen‐
+terer  for  at  Vesten  har  konstruert  eit  systematisk
+forvrengt bilete av «Orienten» som eksotisk, irrasjo‐
+nell, feminin og tilbakeståande, eit bilete som har
+tent  til  å  rettferdiggjere  kolonial  dominans.  Said
+(1978, s. 5) skriv i innleiinga:
+The relationship between Occident and Orient is a
+relationship  of  power ,  of  domination,  of  varying
+degrees of a complex hegemony.
+Men som Vivek Chibber har vist i sin analyse av
+verkets  doble  arv,  inneheld  Orientalism  to  funda‐
+mentalt  ulike  argument  som  står  i  spenning  med
+kvarandre (Chibber , 2020). Å forstå denne spennin‐
+ga  er  avgjerande  for  å  vurdere  verkets  teoretiske
+haldbarheit.Det  fyrste  argumentet  er  materialistisk  i  sin
+grunnstruktur:  orientalistisk  diskurs  oppstod  som
+ein  konsekvens  av  kolonialismen.  Kolonimaktene
+trong ideologisk rettferdiggjering for si dominans,
+og  orientalismen  leverte  denne  rettferdiggjeringa.
+Her er forholdet mellom makt og kunnskap klart:
+materielle  interesser  skapar  sin  legitimerande
+ideologi. Chibber (2020) forklarer:
+Said's argument here is a fairly traditional, mate‐
+rialist  explanation  for  how  and  why  Orientalist
+ideology came to occupy such a prominent place in
+European culture in the modern period. Just as any
+system  of  domination  creates  an  ideological  dis‐
+course to justify and naturalize its superordinate
+position, so too colonialism created a legitimizing
+discourse of its own.
+Dette argumentet er , som Chibber påpeikar , kon‐
+vensjonelt  og  velkjent.  Det  plasserer  Said  trygt
+innanfor  den  marxistiske  tradisjonen  der  ideologi
+forstås som overbygning over ein materiell basis.
+Det andre argumentet inverterer dette forholdet
+fullstendig.  Her  blir  orientalismen  ikkje  berre  ein
+konsekvens av kolonialismen, men ein årsak til han.
+Said  introduserer  omgrepet  «latent  orientalisme»
+for å beskrive ei djuptliggande vestleg haldning til
+Østen som eksisterer nærast uavhengig av spesifik‐
+ke  historiske  omstende.  Denne  latente  orientalis‐
+men, hevdar Said, er så djupt forankra i vestleg kul‐
+tur , frå Aiskhylos til Nixon, at den i seg sjølv genere‐
+rer kolonial aggresjon. Chibber (2020, med sitat frå
+Said, 1978, s. 207) siterer Said:
+3
+
+=== PAGE 4 ===
+Latent  Orientalism  came  packaged  as  a  'will  to
+power'  ...  Hence  the  obsessive  accumulation  of
+facts, Said suggests, 'made Orientalism fatally tend
+towards  the  systematic  accumulation  of  human
+beings and territories.'
+Her er forholdet mellom diskurs og makt inver‐
+tert: i staden for at eit system av dominans skaper
+sin legitimerande ideologi, er det ideologien som ge‐
+nererer  dominansen.  Said  (1978)  formulerer  det
+slik:
+Orientalism is not really a thoroughly modern phe‐
+nomenon ... but is the natural product of an ancient
+and almost irresistible European bent of mind to
+misrepresent the realities of other cultures.
+4. DEN TIDLEGE KRITIKKEN: AL-AZM OG
+AHMAD
+Sadik  Jalal  al-Azm  identifiserte  denne  motseiinga
+allereie i 1981, berre tre år etter at Orientalism  vart
+publisert. I sin skarpe kritikk i tidsskriftet Khamsin
+påpeikte al-Azm at om orientalismen er ein djuptlig‐
+gande del av det vestlege kognitive apparatet, slik
+Said sitt andre argument hevdar , korleis kan då no‐
+kon  vestleg  forfattar ,  inkludert  Said  sjølv,  nokon
+gong unnslippe han? Al-Azm (2000, s. 220) observer‐
+te at Said sin eiga formulering — at orientalismen er
+«the natural product of an ancient and almost irre‐
+sistible European bent of mind to misrepresent the
+realities of other cultures» (Said, 1978, s. 204) — førte
+til ein sjølvmotseiande konklusjon.
+Aijaz Ahmad tok opp same tråden i sin omfattan‐
+de  kritikk  frå  1992.  I  kapittelet  «Orientalism  and
+After» i  In Theory  spekulerte Ahmad i at Said sitt
+andre argument kanskje kunne tilskrivast innverk‐
+naden frå Michel Foucault, men han stilte spørsmål
+ved om Foucault sjølv ville støtta ideen om ein på‐
+stått  kontinuitet  i  vestleg  diskurs  frå  Homer  til
+Richard Nixon. Ahmad (2000, s. 285) skreiv:
+Said's focus on text 'facilitates a reading of history
+not from the basis of material production, but from
+its systems of representations.'
+Dette er eit avgjerande punkt. Ahmad identifise‐
+rer det sentrale problemet med Said sitt prosjekt:
+ved å fokusere på tekst og representasjon, mister ein
+dei materielle produksjonsforholda av syne. Analy‐
+sen blir ahistorisk fordi den ikkje kan forklare kvi‐
+for orientalismen oppstod på eit spesifikt historisk
+tidspunkt, under spesifikke materielle vilkår .Ahmad (1992, s. 184) reiste to sentrale innvendin‐
+gar mot Said sitt andre argument. For det fyrste syn‐
+test Said å ta det orientalistiske tankemønsteret for å
+vera så gjennomgripande i omfang og så mektig i
+innverknad at moglegheita for å unnslippe det ver‐
+ka ekstremt fjern. For det andre, ved å forkaste den
+tradisjonelle marxistiske vektlegginga av kolonialis‐
+men sin materielle basis, gjorde Said det umogleg å
+identifisere dei konkrete interessene som driv impe‐
+rialismen.
+Ahmad (1992, s. 221) påpeikte også at Said sine
+selektive lesingar førte til at sjølv radikale kritikarar
+av imperialismen vart assimilerte inn i den orienta‐
+listiske  tradisjonen.  Marx,  til  dømes,  blir  av  Said
+framstilt som ein orientalist, trass i at Marx sin kri‐
+tikk av det britiske imperiet i India var grunnleg‐
+gjande  materialistisk  og  ikkje  kvilde  på  nokon
+påstand om «oriental» essens.
+Figur 5.  Said sin metode (venstre): tekstar og økonomiske fak‐
+ta som separate domene. Den materialistiske kritikken (høgre):
+korleis nonsens vert transformert til tesar gjennom akademia,
+legitimert av imperialistisk vald. Kjelde: Eige illustrasjon.
+5.  KVA  IMPERIALISME  FAKTISK  ER:
+PARENTI SIN DEFINISJON
+For å forstå kvifor Said sitt andre argument er så
+problematisk, må me fyrst klargjøre kva imperialis‐
+me faktisk inneber . Michael Parenti (1995, s. 1) tilbyr
+ein presis definisjon i opninga av Against Empire :
+By 'imperialism' I mean the process whereby the
+dominant politico-economic interests of one nation
+expropriate for their own enrichment the land, la‐
+bor , raw materials, and markets of another people.
+Denne definisjonen er avgjerande fordi han loka‐
+liserer imperialismen i materielle prosessar , ikkje i
+representasjonar  eller  diskursar .  Imperialisme
+handlar om ekspropriasjon av land, utbytting av ar‐
+beidskraft,  utvinning  av  råvarer  og  kontroll  over
+marknader . Desse prosessane kan sjølvsagt legitime‐
+rast  gjennom  ideologiar ,  inkludert  orientalistiske,
+men ideologiane er ikkje det som driv dei.
+Parenti (1995, s. 15) gjer eit vesentleg poeng om
+forholdet mellom kapitalisme og imperialisme som
+direkte utfordrar Said sitt rammeverk:
+4
+
+=== PAGE 5 ===
+Whether imperialism is necessary for capitalism is
+really not the question. Many things that are not
+absolutely necessary are still highly desirable, the‐
+refore strongly preferred and vigorously pursued.
+Det er ikkje slik at kapitalistar fyrst trur orienta‐
+listiske ting om andre folk, og deretter utbyttar dei.
+Det er omvendt: dei utbyttar fordi det er profitabelt,
+og orientalismen fungerer som ideologisk stønad for
+denne utbyttinga. Parenti (1995, s. 7) dokumenterer
+korleis denne dynamikken har fungert historisk:
+By  1850,  India's  debt  had  grown  to  £53  million.
+From 1850 to 1900, its per capita income dropped
+by almost two-thirds. The massive poverty we as‐
+sociate with India was not that country's original
+historical  condition.  British  imperialism  did  two
+things: first, it ended India's development, then it
+forcibly underdeveloped that country.
+Desse tala, denne konkrete dokumentasjonen av
+utbytting, er det som forklarer imperialismen. Ikkje
+tekstar  om  India  sin  påståtte  «oriental»  karakter ,
+men  gjeldsmekanismar ,  tvangseksport  og
+systematisk underutvikling.
+Figur 6.  Den koloniale relasjonen: imperiet som subjekt, kolo‐
+nien som objekt. Diskursen skjuler røynda: «vi studerer maska,
+dei tek oljen.» Kjelde: Eige illustrasjon.
+6.  DEN  EMPIRISKE  TESTEN:  KVAR
+INTERVENERER IMPERIET?
+Parenti (1995, s. 43) tilbyr ein enkel men avgjerande
+empirisk  test  for  å  vurdere  kva  som  faktisk  driv
+imperialistisk intervensjon:
+Interventionist  forces  do  not  go  where  capital
+exists as such; they go where capital is threatened.
+They have not intervened in affluent Switzerland,
+for instance, because capitalism in that country is
+relatively secure and unchallenged.
+Om Said sitt andre argument er korrekt, burde
+orienteringa av intervensjonar følgje intensiteten i
+orientalistiske representasjonar . Land som er sterkt
+«orientaliserte» i vestleg diskurs burde vera meir ut‐
+sette  for  intervensjon  enn  land  som  ikkje  er  det.
+Men det er ikkje det me observerer .USA intervenerer der det finst strategiske ressur‐
+sar , der det finst trugsmål mot kapitalinteresser , der
+det finst geopolitiske mål. Dei intervenerer ikkje i
+land som manglar slike interesser , uansett kor «ori‐
+entalistisk» diskursen om desse landa måtte vera.
+Omvendt intervenerer dei villig i land som knapt fi‐
+gurerer  i  orientalistisk  diskurs,  så  lenge  dei
+materielle interessene er til stades.
+Parenti (1995, s. 9) dokumenterer dette mønste‐
+ret. Dei faktiske mekanismane for imperialisme — 
+gjeldsmekanismar , handelsavtalar , sanksjonar , mili‐
+tærbasar , etterretningsoperasjonar , støtte til komp‐
+radorklassar — krev ikkje orientalistiske representa‐
+sjonar  for  å  fungere.  Dei  opererer  like  effektivt  i
+Latin-Amerika  som  i  Midtøsten,  like  effektivt  mot
+kristne som mot muslimar , like effektivt mot «Ves‐
+ten» sine eigne arbeidsklassar som mot folk i det
+globale sør .
+Figur 7.  Orientalisme som diskurs, frå simulering til imitasjon:
+den skjulte røyndomen (basis) er påtatt. Kjelde: Eige illustrasjon.
+7.  CHOMSKY  MOT  FOUCAULT:
+EMPIRISME MOT DISKURSTEORI
+Den teoretiske konflikten mellom materialistisk ana‐
+lyse og diskursteori vart dramatisk iscenesett i den
+berømte debatten mellom Noam Chomsky og Michel
+Foucault i 1971. Said var , etter eige utsegn, påverka
+av  «to  polaritetar»,  Foucault  på  den  eine  sida  og
+Chomsky på den andre (Ahmad, 1992, s. 165).
+Chomsky sitt standpunkt var klart: makt må ana‐
+lyserast empirisk, gjennom dokumentasjon av fak‐
+tiske  handlingar ,  institusjonar  og  interesser .  Fou‐
+cault, derimot, insisterte på at makt opererer gjen‐
+nom  diskursive  formasjonar .  I  debatten  uttrykte
+Foucault ein posisjon som nærast kollapsar i nihilis‐
+me når det gjeld spørsmålet om rettferd (Chomsky &
+Foucault, 2006).
+Chomsky si innvending var skarp. I eit seinare
+intervju oppsummerte han problemet med den post‐
+strukturalistiske  tilnærminga.  Chomsky  (2013)
+skreiv:
+5
+
+=== PAGE 6 ===
+When [Foucault's ideas are] decoded, they say not‐
+hing.  Strip  away  the  jargon:  'power  circulates,'
+'knowledge  is  implicated  in  domination.'  Either
+truisms or mystification.
+Problemet er ikkje at Foucault tek feil i at makt
+opererer gjennom diskurs. Makt gjer det. Problemet
+er at ved å gjere diskurs til det sentrale analyseob‐
+jektet, risikerer ein å miste dei materielle struktura‐
+ne av syne. Ein kan analysere orientalistiske tekstar
+i det uendelege utan å nokon gong konfrontere Pen‐
+tagon, IMF, Verdsbanken eller oljeselskapa.
+Orientalism , særleg i sitt andre argument, heller
+tydeleg mot Foucault. Fred Halliday observerte, som
+sitert i Chibber (2020):
+While  much  of  the  other  work  was  framed  in
+broadly Marxist terms and was a universalist criti‐
+que, Said, eschewing materialist analysis, sought to
+apply literary critical methodology and to offer an
+analysis specific to something called 'the Orient.'
+Figur 8.  Den koloniale relasjonen: oksidenten (subjekt) og ori‐
+enten (objekt). Representasjonen kan tolkast som bedrevitan‐
+de eller skånsam, men den strukturelle asymmetrien forblir
+den same. Kjelde: Eige illustrasjon.
+8.  CHIBBER  SIN  ANALYSE:  DEN  DOBLE
+ARVEN
+Vivek Chibber sin artikkel «Orientalism and Its Af‐
+terlives» (2020) tilbyr kanskje den mest presise ana‐
+lysen av spenninga i Said sitt verk. Om «latent orien‐
+talisme»  har  eksistert  i  vestleg  kultur  sidan
+Aiskhylos, kvifor venta då europeisk kolonialisme til
+det  syttande  og  attande  hundreåret  med  å
+ekspandere globalt?
+Chibber (2020) sin analyse presiserer:
+If Said were to agree that, even if Orientalism had
+not been available as an academic discipline, even
+if latent Orientalism had been absent from the sce‐
+ne, its basic elements could have nonetheless been
+crafted ex nihilo in order to justify colonial rule,
+then he would be suggesting that latent Orientalism
+was  not  in  fact  a  necessary  part  of  the  causal
+complex that brought about colonialism.
+Chibber (2018) påpeikar også den problematiske
+essensialismen som følgjer av Said sitt andre argu‐
+ment:If, as Said and others admit, all cultures express
+wayward and at times racist ideas of the 'other ,' one
+needs extra-cultural explanations to uncover why
+colonialism  and  imperialism  in  the  modern  age
+were undertaken by European powers.
+9.  DEI  MATERIELLE  KOSTNADANE:
+SMITH SIN DOKUMENTASJON
+David Michael Smith (2023, s. 8) har i Endless Holo‐
+causts  dokumentert  omfanget  av  imperialismen  i
+reine menneskelege kostnadar:
+The US Empire is maintained by a network of client
+states that 'encompass 40 per cent of the world's
+countries.'  It  is  supported  by  800  foreign  bases,
+with  200,000  military  staff  and  contractors
+deployed in 140 countries.
+Desse tala representerer ikkje representasjonar .
+Dei representerer faktiske dødsfall, faktiske basar ,
+faktiske troppar , faktisk infrastruktur for dominans.
+Parenti (2010) kallar imperialismen sin faktiske ka‐
+rakter:
+Empires impoverish whole populations and kill lots
+and lots of innocent people. This is another thing
+that empires do which too often goes unmentioned
+in the historical and political literature.
+Desse dødsfalla skjedde ikkje på grunn av orien‐
+talistiske representasjonar . Dei skjedde på grunn av
+materiell  ekspansjon,  ressursutvinning  og
+geopolitisk kontroll.
+Figur 9.  Det orientalistiske prismet: korleis imperielle interes‐
+ser konstruerer «Orienten» som skjerm mellom betraktaren og
+den materielle røyndomen. Kjelde: Eige illustrasjon.
+6
+
+=== PAGE 7 ===
+10. SAMTIDSIMPERIALISME: FRÅ TEORI
+TIL RØYND
+Medan  akademikarar  debatterer  representasjonar ,
+utfaldar imperialismen seg i sanntid. I januar 2026
+kidnappa  det  amerikanske  militæret  Venezuelas
+president  Nicolás  Maduro  i  ein  operasjon  Trump
+sjølv skildra som utøving av det han kallar «Donroe
+Doctrine»  (ABC  News,  2026).  Samstundes  held
+Trump fram med å true Danmark med anneksjon av
+Grønland og opne konfrontasjonar med NATO-allier‐
+te.
+Desse hendingane illustrerer det materialistiske
+argumentet  med  brutal  klarheit.  Trump  snakkar
+ikkje om kulturelle representasjonar av Venezuela
+eller  Grønland.  Han  snakkar  om  olje,  mineral  og
+geopolitisk  kontroll.  Som  han  sa  om  Venezuela:
+«They  have  the  largest  oil  reserves  in  the
+world» (ABC News, 2026). Som Parenti (1995) formu‐
+lerte  det:  imperiet  forfølgjer  ikkje  «power  for
+power's sake», men reelle og enorme materielle in‐
+teresser .
+I Gaza utfaldar den same logikken seg. Trump
+har føreslått å ta over Gazastripa, tvangsflytte den
+palestinske befolkninga, og gjere området om til ei
+«spesiell  økonomisk  sone».  Her  blir  orientalistisk
+diskurs om palestinarar sekundær til dei konkrete
+planane om territorium og kontroll.
+Figur 10.  Det finst ingen transcendent dimensjon i kapitalis‐
+men (venstre): figuren dabbar i tomrommet. Den historiske
+prosessen har ingenting å gjere med gjennomføringa av eit
+ideal (høgre). Kjelde: Eige illustrasjon.
+11.  OKSIDENTALISME:  Å  SNU  SAID  PÅ
+HOVUDET
+No kan me vende tilbake til oppgåva sitt spørsmål:
+korleis ville eit «oksidentaliserande» uttrykk sjå ut?
+Ian Buruma og Avishai Margalit (2004) har i  Occi‐
+dentalism  dokumentert  eksakt  slike  representasjo‐
+nar .  «Vesten»  blir  i  visse  ikkje-vestlege  diskursar
+framstilt som kald, sjellaus, materialistisk, åndlaus,
+mekanisk, dekadent.Her kjem den avgjerande innsikta frå den mate‐
+rialistiske kritikken: det spelar inga rolle. Om Said
+sitt  rammeverk  er  korrekt,  burde  oksidentalisme
+vera like problematisk som orientalisme. Begge er
+forvrengde representasjonar som, ifølgje Said sin lo‐
+gikk, skulle produsere maktrelasjonar . Men kvar er
+det oksidentalistiske imperiet?
+Svaret  er  at  makt  ikkje  følgjer  representasjon.
+Makt følgjer materielle forhold: økonomisk kapasi‐
+tet, militær styrke, tilgang til ressursar , kontroll over
+finansielle institusjonar . Oksidentalistiske represen‐
+tasjonar eksisterer i rikeleg mon, men dei har ikkje
+produsert nokon oksidentalistisk imperialisme fordi
+dei manglande samfunna har mangla den materiel‐
+le kapasiteten til å omsette representasjonar i domi‐
+nans.
+Om  Chomsky,  Ahmad  og  Parenti  sin  kritikk  er
+korrekt, er heile rammeverket av representasjons‐
+kritikk  ein  avleiingsmanøver .  Oljeleidningane  går
+same vegen uansett kva folk trur om kvarandre. Fi‐
+nansstraumane følgjer sin eigen logikk. Militærbasa‐
+ne ligg der dei ligg på grunn av strategiske kalkula‐
+sjonar , ikkje på grunn av kulturelle representasjo‐
+nar .
+12.  DARWISH  LES  SAID  MOT  SAID:
+TIBAQ SOM  MATERIALISTISK
+KORREKTIV
+Det er ei underleg ironi i at det kanskje mest presise
+svaret på den indre motseiinga i Said sitt  Orienta‐
+lism  ikkje  kjem  frå  ein  akademikar ,  men  frå  ein
+poet. Mahmoud Darwish sitt Tibaq  (طباق ,2003/2005),
+skrive som ein elegi til Said kort tid etter hans død,
+fungerer samstundes som hyllest og som implisitt
+kritikk.
+Avanessian og Töpfer (2014) argumenterer i Spe‐
+culative Drawing  for at teikning og poesi ikkje illust‐
+rerer teori; dei  er ei form for tenking. Teikningane
+«provide  an  occasion  to  think  about  thinking — a
+speculative  thinking  and  writing  in  concept  and
+through images» (s. 12). På same vis fungerer Dar‐
+wish sitt dikt ikkje som illustrasjon til Said sin teori,
+men som ein autonom intellektuell praksis som ten‐
+kjer med  Said samstundes som det tenkjer mot han.
+7
+
+=== PAGE 8 ===
+Kontrapunkt  (tibaq ,  طباق :) Retorisk  og  musikalsk
+omgrep for å halde fleire stemmer eller narrativ i
+spenning samstundes, utan å løyse dei opp i synte‐
+se.
+Said lånte omgrepet frå musikkteori i Culture and
+Imperialism (1993) for å beskrive ein lesemåte der
+kolonisator og kolonisert, sentrum og periferi, blir
+haldne i hovudet samstundes.
+Najat Rahman (2007) sin analyse i  PMLA  visar
+korleis diktet representerer ei radikal omforming av
+den  arabiske  elegien  ( marthiya ).  Men  det  er  meir
+enn ei generisk hyllest. Diktet opererer som ein so‐
+fistikert  intellektuell  intervensjon  som  korrigerer
+Said på fleire avgjerande punkt.
+I. Identitet som skaparverk: Mot essensialismen
+إنَّ الهويةَ بنتُ الولادة 
+لكنها في النهاية إبداعُ صاحبها
+لا وراثة ماضٍ 
+Identitet er fødselen si dotter , men til slutt er ho skapar‐
+verket til eigaren sin, ikkje arv frå fortida.
+Dette er ein  anti-essensialistisk  posisjon som di‐
+rekte motseier det Chibber (2020) identifiserer som
+Said  sitt  «andre  argument».  Om  identitet  er  noko
+som blir skapt  av individet i møte med materielle og
+historiske omstende, då kan det ikkje eksistere no‐
+kon «latent orientalisme» som er innebygd i vestleg
+kultur sidan Aiskhylos.
+II.  «Austen  er  ikkje  heilt  Aust»:  Oppheving  av
+binæren
+لا الشرقُ شرقٌ تماماً ولا الغربُ غربٌ تماماً 
+لأن الهويَّةَ مفتوحةٌ للتعدُّد
+لا قلعةً أو خنادقَ 
+Austen er ikkje heilt Aust, og Vesten er ikkje heilt Vest,
+for identiteten er open for mangfald: ikkje ei festning
+eller vollgraver .
+Al-Azm  (2000)  påpeikte  allereie  i  1981  at  Said,
+ved å postulere ein grunnleggjande forskjell mellom
+«Vesten» og «Orienten», risikerer å reprodusere den
+same dikotomien som orientalismen sjølv. Darwish
+sin  Said  avviser  denne  dikotomien  fullstendig.
+Identitet er open , porøs , fleirfaldig .III. Blodet som brot: Det materielle si inntrengning
+دمٌ, ودمٌ، ودمٌ في بلادك
+في اسمي وفي اسمك، في زهرة اللوز، في قشرة الموز
+في لبن الطفل، في الضوء والظلّ 
+Blod, og blod, og blod i landet ditt: i mitt namn og i ditt
+namn, i mandelblomen, i bananskalet, i barnemelka, i
+lyset og skuggen...
+Repetisjonen av «blod» ( دم )fungerer som eit for‐
+melt brot i diktet. Det vakre, det metaforiske, det
+kulturelle blir avbrote av rå materialitet. Denne pas‐
+sasjen får ei smertelig aktualitet i lys av situasjonen
+i Gaza sidan oktober 2023. Den internasjonale dom‐
+stolen (ICJ, 2024) har pålagt Israel å sikre humani‐
+tær hjelp, medan Amnesty International (2024) og
+Human  Rights  Watch  (2024)  har  dokumentert  det
+dei kallar folkemord. Per september 2025 har over
+65   000  palestinarar  mista  livet,  av  desse  minst
+19 000 born (Srinivas et al., 2025).
+IV. «Sodom sin krig mot folket i Babylon»
+كان يقاوم حَرْبَ سَدُومَ على أهل بابل والسرطان معاً 
+Han kjempa mot Sodom sin krig mot folket i Babylon og
+kreften samstundes.
+Amerika er Sodom; Irak er Babylon. Said døydde
+av leukemi medan han motsette seg invasjonen av
+Irak i 2003. Darwish nektar å skilje det personlege
+frå det politiske, det kroppslege frå det geopolitiske.
+Denna linja får forsterka relevans i 2025/2026 med
+Trump-administrasjonen  si  gjenoppliving  av  Mon‐
+roe-doktrinen og bortføringa av Maduro (Council on
+Foreign Relations, 2026).
+V. Tenkjaren og poeten: Eit spenningsforhold
+المُفَكَّرُ يكبَحُ سَرْدَ الروائيّ 
+والفيلسوف يُشَرِّحُ وَرْدَ المُغَنّي 
+Tenkjaren  held  attende  forteljaren  sitt  narrativ,  og
+filosofen dissekerer songaren si rose.
+Dette er Darwish sin milde kritikk av Said, og im‐
+plisitt av akademisk diskurs som sådan. Tenkjaren
+(Said som teoretikar) held attende forteljaren; filoso‐
+fen  dissekerer  poeten  si  blome.  Analyse  drep  det
+han analyserer .
+8
+
+=== PAGE 9 ===
+VI. Det umoglege som politisk horisont
+إن متُّ قبلك 
+أُوصيكَ بالمُستحيلْ 
+سألتُ: هل المُستحيلُ بَعيد؟ 
+فقال: على بُعدِ جيلْ 
+Om eg døyr før deg / Gjev eg deg det umoglege i arv / Eg
+spurde: Er det umoglege langt unna? / Han svara: Ein
+generasjon unna.
+(Darwish, 2003/2005, mi omsetjing)
+Det umoglege er ein generasjon unna . Ikkje evig.
+Ikkje metafysisk. Ikkje innebygd i ei tidlaus kulturell
+disposisjon.  Det  umoglege  er  historisk  situert.  Det
+kan oppnåast gjennom politisk kamp, ikkje gjennom
+diskursanalyse.
+13.  VERKET  SOM  ARGUMENT:
+PALIMPSESTEN SI DOBLE LESING
+Diktet  er palimpsesten som kunstverket forsøkjer å
+realisere  visuelt.  Det  held  to  register  samstundes:
+overflatelaget  (kulturelt)  med  sjølvets  mangfald,
+metaforar , det estetiske som fridom, og djupnelaget
+(materielt)  med  blod,  kreft,  krig,  snikskyttarar ,
+monsteret av sanning, Sodom sin krig på Babylon.Som Avanessian og Töpfer (2014) formulerer det:
+teikningane deira «do not aim to build a representa‐
+tional relationship between a pictorially correct un‐
+derstanding  and  a  correlative  conceptual
+thought» (s. 12). I staden skapar dei ein «occasion to
+think about thinking».
+Avanessian  (2015)  si  accelerationist-kritikk  av
+akademia i  Overwrite  peikar mot det same proble‐
+met: den akademiske diskurskritikken risikerer å bli
+ein komfortabel posisjon som let dei faktiske makt‐
+strukturane ligge uutfordra. Løysinga er ikkje meir
+raffinert  tekstanalyse,  men  materiell  intervensjon,
+det Avanessian og Hennig (2015) kallar ei poetikk
+som ikkje berre representerer , men produserer tid.
+Når plata vert halden opp mot lyset, skjer noko
+spesielt: Prismene i folien bryt den svarte kalligrafi‐
+en. Lyset som skin gjennom er ikkje det romantiske
+lyset frå eit illuminert manuskript, men det kalde,
+funksjonelle lyset som folien er laga for å prosesse‐
+re. Darwish sine ord om eksil og identitet vert fysisk
+inskribert  i  det  materielle  substratet  for  vestleg
+bildeproduksjon.  Men  plasten  bryr  seg  ikkje  om
+orda. Ripene i plasten er like verkelege som poesien.
+Forholdet er meir urovekkjande: dei eksisterer i
+parallelle verkelegheiter som knapt vedkjem kvar‐
+andre. Darwish formulerer spørsmålet som kunst‐
+verket  stiller:  «Er  dette  landet  verkeleg  velsigna,
+eller døypt i blod?» Snikskyttarane treff måla sine
+med utmerkt kvalitet. Diskursanalysen endrar ikkje
+kulens bane.
+9
+
+=== PAGE 10 ===
+Figur 11.  Verket som teoretisk modell (materialistisk stratigrafi). Betraktaren ser gjennom tre lag: diskurs/representa‐
+sjon (poesi, kalligrafi, ideologi), industriell infrastruktur (medium, teknologi, prismefolie), og materiell basis (makt,
+økonomi, imperialisme). Determinansen går nedanfrå og opp. Kjelde: Eige illustrasjon.
+14. KVA STÅR ATT AV SAID?
+Denne kritikken betyr ikkje at  Orientalism  er utan
+verdi.  Said  sitt  fyrste  argument,  at  kolonialismen
+produserte sin legitimerande ideologi, er både gyl‐
+dig og viktig. Orientalistiske representasjonar finst,
+og dei har fungert som rettferdiggjering for domi‐
+nans.
+Men Said sitt andre argument, at orientalismen
+er så djupt forankra i vestleg kultur at han i seg sjølv
+genererer  kolonial  aggresjon,  må  avvisast.  Det  er
+ikkje berre teoretisk problematisk; det er politisk de‐
+mobiliserande.  Den  materialistiske  tradisjonen  til‐
+byr eit anna svar . Parenti (2010) oppsummerer:
+In a word, empires do not just pursue 'power for
+power's sake.' There are real and enormous materi‐
+al  interests  at  stake,  fortunes  to  be  made  many
+times over .
+Desse interessene kan identifiserast, analyserast
+og motstås. Ikkje gjennom diskursanalyse, men gjen‐
+nom politisk organisering, økonomisk motstand og
+solidaritet  med  dei  som  ber  dei  materielle
+kostnadene av imperiet.Said visste eigentleg dette. Hans mest effektive
+arbeid, journalistikken hans, dei politiske interven‐
+sjonane hans for palestinarane, forlet det teoretiske
+apparatet frå Orientalism  heilt og dokumenterte ber‐
+re fakta: okkupasjonen, fordrivinga, undertrykkin‐
+ga. Det var det som talde.
+15. KONKLUSJON
+Det umoglege, seier Darwish til Said, er ein genera‐
+sjon unna. Men generasjonen målest ikkje i tekstar .
+Han målest i røyrleidningar og rørsler . I dronean‐
+grep over Gaza. I Maduro si kidnapping. I trugselen
+mot Grønland.
+Denne  artikkelen  har  ført  tre  hovudargument.
+For  det  fyrste:  Said  sitt  Orientalism  inneheld  ein
+uløyseleg indre motseiing mellom eit materialistisk
+argument (orientalismen som konsekvens av kolo‐
+nialismen)  og  eit  idealistisk  argument  (orientalis‐
+men som årsak til kolonialismen), der det andre ar‐
+gumentet verken kan forklare imperialismens histo‐
+riske mønster eller bestå den empiriske testen Pa‐
+renti formulerer . For det andre: Darwish sitt  Tibaq
+korrigerer implisitt denne motseiinga gjennom ein
+anti-essensialistisk og materialistisk poetikk som in‐
+10
+
+=== PAGE 11 ===
+sisterer på at identitet er skaparverk, ikkje arv, og at
+det  umoglege  er  historisk  situert.  For  det  tredje:
+kunstverket — palimpsesten av poesi på prismefolie 
+— visualiserer denne kritikken ved å la infrastruktu‐
+ren  og  diskursen  eksistere  side  om  side,  synlege
+men uforeinlege.
+Desse tre argumenta peikar samla mot ein kon‐
+klusjon med konsekvensar utover den akademiske
+sfæren:  den  postkoloniale  diskurskritikken,  trass
+sine viktige bidrag til å synleggjere ideologiske re‐
+presentasjonar , risikerer å bli ein substitutt for den
+materialistiske analysen som trengs for å forstå — og
+motarbeide — imperialismens faktiske mekanismar .
+Prismefolien  fragmenterer  kalligrafien,  men  kalli‐
+grafien  endrar  ikkje  prismefolien.  Oljeleidningane
+ligg der dei ligg uavhengig av kva me skriv om dei.
+Det er i dette gapet mellom diskurs og infrastruktur
+at både kunstverket og artikkelen situerer seg: ikkjefor å fornekte diskursen si rolle, men for å insistere
+på  at  kritikk  som  ikkje  konfronterer  basis  forblir
+overflate.
+Figur 12.  Røyndom, ikkje utanfor , språket: verket insisterer på
+at det materielle og det diskursive eksisterer samstundes utan
+å kansellere kvarandre. Trykkpressa som metafor: språket er
+alltid allereie materialisert. Kjelde: Eige illustrasjon.
+11
+
+=== PAGE 12 ===
+Figur 13.  Typografisk komposisjon av dei siste linjene i Tibaq : «Om eg døyr før deg / Gjev eg deg det umoglege i arv /
+Eg spurde: Er det umoglege langt unna? / Han svara: Ein generasjon unna.» Darwish sitt testamente til Said — og til
+oss. Kjelde: Eige illustrasjon.
+12
+
+=== PAGE 13 ===
+Figur 1.  Det ferdige verket i tre visningar . Venstre: nærbilete gjennom prismefolien, der ljosbrytinga fragmenterer kal‐
+ligrafien i spektralfargar . Øvst høgre: verket hengt opp, sett med dagslys bakfrå. Nedst høgre: verket belyst framanfrå,
+der kalligrafien trer tydelegare fram mot den industrielle overflata. Kjelde: Eige fotografi.
+13
+
+=== PAGE 14 ===
+REFERANSAR
+ABC News. (2026, 6. januar). Trump's 'Donroe Doctrine' seeks
+influence over Western Hemisphere citing old US policy.
+ABC News .
+Ahmad,  A.  (1992).  Orientalism  and  after:  Ambivalence  and
+metropolitan location in the work of Edward Said. I  In
+theory: Classes, nations, literatures  (s. 159–220). Verso.
+Ahmad, A. (2000). Between orientalism and historicism. I A. L.
+Macfie  (Red.),  Orientalism:  A  reader  (s.  285–297).  Edin‐
+burgh University Press.
+al-Azm, S. J. (2000). Orientalism and orientalism in reverse. I
+A. L. Macfie (Red.), Orientalism: A reader  (s. 217–238). New
+York University Press.
+Amnesty International. (2024).  Israel's genocide against Pale‐
+stinians in Gaza . https://www.amnesty.org/en/documents/
+mde15/8668/2024/en/
+Avanessian, A. (2015). Overwrite: Ethics of knowledge, poetics
+of existence . Sternberg Press.
+Avanessian, A., & Hennig, A. (2015).  Present tense: A poetics .
+Bloomsbury Academic.
+Avanessian, A., & Töpfer, A. (2014). Speculative drawing: 2011–
+2014 . Sternberg Press.
+Buruma, I., & Margalit, A. (2004).  Occidentalism: The West in
+the eyes of its enemies . Penguin Press.
+Chibber, V. (2018). The dual legacy of Orientalism. I B. Abu-
+Manneh (Red.),  After Said: Postcolonial literary studies in
+the twenty-first century  (s. 37–52). Cambridge University
+Press.
+Chibber, V. (2020). Orientalism and its afterlives. Catalyst, 4 (3).
+Chomsky,  N.  (2013,  1.  september).  The  responsibility  of
+intellectuals, redux. Boston Review .
+Chomsky, N., & Foucault, M. (2006). The Chomsky–Foucault de‐
+bate: On human nature  (F. Elders, Red.). The New Press.Council on Foreign Relations. (2026, 7. januar). Venezuela and
+beyond: Trump's 'America First' rhetoric masks a neo-im‐
+perialist  streak.  https://www.cfr.org/expert-brief/
+venezuela-and-beyond
+Darwish, M. (2005). Antithesis [Tibaq]. Journal of Arabic Lite‐
+rature, 36 (1), 50–56. (G. El-Hage, Oms.).
+Human  Rights  Watch.  (2024).  Israel:  Starvation  used  as
+weapon  of  war  in  Gaza .  https://www.hrw.org/news/
+2024/12/19/israel-starvation-used-weapon-war-gaza
+International Association of Genocide Scholars. (2025).  Reso‐
+lution on Gaza .
+International Court of Justice. (2024).  Application of the Con‐
+vention on the Prevention and Punishment of the Crime of
+Genocide in the Gaza Strip  (South Africa v. Israel), Provi‐
+sional Measures.
+Mackay, R., & Avanessian, A. (Red.). (2014).  #Accelerate: The
+accelerationist reader . Urbanomic.
+Parenti, M. (1995). Against empire . City Lights Books.
+Parenti, M. (2010). What do empires do? Voltaire Network .
+Rahman,  N.  (2007).  Poetry  of  politics  and  mourning:  Mah‐
+moud Darwish's genre-transforming tribute to Edward W.
+Said. PMLA, 122 (5), 1447–1462.
+Said, E. W. (1978). Orientalism . Pantheon Books.
+Said, E. W. (1993). Culture and imperialism . Knopf.
+Smith, D. M. (2023). Endless holocausts: Mass death in the his‐
+tory of the United States Empire . Monthly Review Press.
+Srinivas, N., Vijay, D., Alakavuklar, O. N., et al. (2025). Facing
+the  facts  of  the  Gaza  genocide:  Refusing  complicity,
+organizing  solidarity.  Organization .  https://doi.org/
+10.1177/13505084251384843
+Trump Administration. (2025).  National Security Strategy of
+the United States of America .
+14
