@@ -1,0 +1,26 @@
+# Figure Links
+
+Here are the direct links to all the figure images currently in the repository on the `main` branch.
+
+* [3 image collage of the palimpsest.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/3%20image%20collage%20of%20the%20palimpsest.png)
+* [cover arabic caligraphy.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/cover%20arabic%20caligraphy.png)
+* [figur_01-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_01-1.png)
+* [figur_01.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_01.png)
+* [figur_02-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_02-1.png)
+* [figur_02.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_02.png)
+* [figur_03-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_03-1.png)
+* [figur_03.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_03.png)
+* [figur_04-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_04-1.png)
+* [figur_04.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_04.png)
+* [figur_05-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_05-1.png)
+* [figur_05.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_05.png)
+* [figur_06-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_06-1.png)
+* [figur_06.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_06.png)
+* [figur_07-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_07-1.png)
+* [figur_07.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_07.png)
+* [figur_08-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_08-1.png)
+* [figur_08.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_08.png)
+* [figur_09-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_09-1.png)
+* [figur_09.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_09.png)
+* [figur_10-1.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_10-1.png)
+* [figur_10.png](https://raw.githubusercontent.com/lukketsvane/palimpsest/main/figures/figur_10.png)
