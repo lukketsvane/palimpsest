@@ -90,20 +90,18 @@ export default function ArticleReader() {
           {/* Download Buttons */}
           <button 
             onClick={() => window.print()} 
-            className="flex items-center gap-2 p-2 px-3 text-black border-2 border-transparent hover:border-black hover:bg-black hover:text-white transition-all group"
+            className="p-2 text-black border-2 border-transparent hover:border-black hover:bg-black hover:text-white transition-all group"
             title="Download as PDF"
           >
-            <span className="text-[10px] font-black tracking-widest uppercase hidden sm:block">PDF</span>
             <FileText className="w-4 h-4" />
           </button>
           
           <a 
             href="/palimpsest.epub" 
             download="Palimpsest - Iver Raknes Finne.epub" 
-            className="flex items-center gap-2 p-2 px-3 text-black border-2 border-transparent hover:border-black hover:bg-black hover:text-white transition-all group"
+            className="p-2 text-black border-2 border-transparent hover:border-black hover:bg-black hover:text-white transition-all group"
             title="Download as EPUB"
           >
-            <span className="text-[10px] font-black tracking-widest uppercase hidden sm:block">EPUB</span>
             <BookOpen className="w-4 h-4" />
           </a>
 
@@ -175,8 +173,8 @@ export default function ArticleReader() {
             ))}
           </div>
 
-          {/* Sections - Single Column */}
-          <div className="flex flex-col space-y-16 print:space-y-12">
+          {/* Sections - Two Columns */}
+          <div className="columns-1 md:columns-2 gap-12 space-y-12 print:columns-1">
             {articleContent.sections.map((section) => (
               <motion.section 
                 key={section.id} 
