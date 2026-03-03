@@ -156,7 +156,7 @@ export default function ArticleReader() {
           )}
 
           {/* Abstracts */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 border-b-4 border-black pb-12 print:border-b-2">
+          <div className="mb-12 border-b-4 border-black pb-12 print:border-b-2">
             {articleContent.abstracts.map((abstract, idx) => (
               <div key={idx} className="bg-white">
                 <h3 className="text-xs font-black tracking-widest uppercase text-black mb-4 font-sans border-b-2 border-black pb-2">
@@ -173,8 +173,8 @@ export default function ArticleReader() {
             ))}
           </div>
 
-          {/* Sections - Two Columns */}
-          <div className="columns-1 md:columns-2 gap-12 space-y-12 print:columns-1">
+          {/* Sections */}
+          <div className="flex flex-col gap-16 print:gap-12">
             {articleContent.sections.map((section) => (
               <motion.section 
                 key={section.id} 
@@ -188,7 +188,7 @@ export default function ArticleReader() {
                 <h2 className="text-xl sm:text-2xl font-black tracking-tight mb-4 text-black uppercase border-b-2 border-black pb-2 font-sans">
                   {section.title}
                 </h2>
-                <div className="prose prose-sm sm:prose-base prose-black max-w-none prose-p:leading-relaxed prose-p:text-black prose-headings:font-sans prose-headings:font-black prose-headings:uppercase prose-blockquote:border-l-4 prose-blockquote:border-black prose-blockquote:bg-gray-100 prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:not-italic prose-blockquote:text-black prose-img:w-full prose-img:my-8 prose-a:text-black prose-a:font-bold prose-a:underline prose-a:decoration-2 prose-a:underline-offset-4 hover:prose-a:bg-black hover:prose-a:text-white">
+                <div className="prose prose-sm sm:prose-base prose-black max-w-none prose-p:leading-relaxed prose-p:text-black prose-headings:font-sans prose-headings:font-black prose-headings:uppercase prose-blockquote:border-l-4 prose-blockquote:border-black prose-blockquote:bg-gray-100 prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:not-italic prose-blockquote:text-black prose-img:w-full prose-img:my-8 prose-a:text-black prose-a:font-bold prose-a:underline prose-a:decoration-2 prose-a:underline-offset-4 hover:prose-a:bg-black hover:prose-a:text-white columns-1 md:columns-2 gap-12 print:columns-1">
                   <Markdown>{section.content}</Markdown>
                 </div>
               </motion.section>
