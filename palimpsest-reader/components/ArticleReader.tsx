@@ -175,8 +175,8 @@ export default function ArticleReader() {
             ))}
           </div>
 
-          {/* Sections - Two Columns */}
-          <div className="columns-1 md:columns-2 gap-12 space-y-12 print:columns-1">
+          {/* Sections - Single Column */}
+          <div className="flex flex-col space-y-16 print:space-y-12">
             {articleContent.sections.map((section) => (
               <motion.section 
                 key={section.id} 
@@ -225,7 +225,7 @@ export default function ArticleReader() {
               initial={{ x: '100%' }}
               animate={{ x: 0 }}
               exit={{ x: '100%' }}
-              transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+              transition={{ duration: 0.2, ease: "easeOut" }}
               className="relative w-full max-w-sm bg-white h-full border-l-4 border-black flex flex-col"
             >
               <div className="p-4 border-b-4 border-black flex items-center justify-between bg-white">
