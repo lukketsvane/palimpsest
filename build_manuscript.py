@@ -416,8 +416,8 @@ def build_section_1(doc):
     run.italic = True
     p.add_run(" tilbyr teoretiske reiskapar for \u00e5 forst\u00e5 korleis kritisk praksis kan produsere, ikkje berre representere, verkelegheit.")
 
-    # Figure 2: Representasjonsmaskinene (figur_01.png = 5 heads reading different media)
-    add_figure(doc, "figur_01.png", 2,
+    # Figure 2: Representasjonsmaskinene (figur_01.jpg = 5 heads reading different media)
+    add_figure(doc, "figur_01.jpg", 2,
         "Representasjonsmaskinene si utvikling: fr\u00e5 bok til smarttelefon. Mediet endrar seg, men den strukturelle relasjonen mellom betraktar og representasjon forblir den same. Kjelde: Eige illustrasjon.",
         width=Inches(5.5))
 
@@ -440,13 +440,13 @@ def build_section_2(doc):
     p.paragraph_format.space_after = Pt(3)
     p.add_run("Valet av materiale er sj\u00f8lve argumentet: i staden for \u00e5 skrive p\u00e5 pergament eller papir i ei orientaliserande imitering av islamsk bokkunst, er teksten lagt p\u00e5 det industrielle avfallet fr\u00e5 vestleg bildeproduksjon. Verket nektar nostalgi og insisterer p\u00e5 det samtidige. Det er s\u00f8ppel gjenbrukt som b\u00e6rar for poesi \u2014 og nettopp denne spenninga mellom det poetiske innhaldet og det infrastrukturelle mediet utgjer palimpsesten si doble lesing.")
 
-    # Figure 3: Den optiske effekten (figur_02.png = eye/prism diagram)
-    add_figure(doc, "figur_02.png", 3,
+    # Figure 3: Den optiske effekten (figur_02.jpg = eye/prism diagram)
+    add_figure(doc, "figur_02.jpg", 3,
         "Den optiske effekten som teoretisk modell. Utan prismefolie: uforstyrra kulturell representasjon (idealistisk diskurs). Gjennom prismefolien: diskursen fragmentert av materielle strukturar (materialistisk r\u00f8yndom). Det analytiske blikket ser gjennom infrastrukturen, men infrastrukturen endrar det ein ser. Kjelde: Eige illustrasjon.",
         width=Inches(5.5))
 
-    # Figure 4: Samansetjinga (figur_03.png = exploded view with 3 layers)
-    add_figure(doc, "figur_03.png", 4,
+    # Figure 4: Samansetjinga (figur_03.jpg = exploded view with 3 layers)
+    add_figure(doc, "figur_03.jpg", 4,
         "Samansetjinga av palimpsesten i eksplodert visning. Dei tre laga \u2014 prismefolie (fr\u00e5 LCD-skjerm), kalligrafi p\u00e5 papir, og MDF-bakplate \u2014 utgjer ein materiell heilskap der kvart lag har sin eigen funksjon og symbolikk. Kjelde: Eige illustrasjon.",
         width=Inches(5))
 
@@ -503,7 +503,7 @@ def build_section_3(doc):
         "Orientalism is not really a thoroughly modern phenomenon \u2026 but is the natural product of an ancient and almost irresistible European bent of mind to misrepresent the realities of other cultures.")
 
     # Figure 5: Said sin metode
-    add_figure(doc, "figur_04.png", 5,
+    add_figure(doc, "figur_04.jpg", 5,
         "Said sin metode (venstre): tekstar og \u00f8konomiske fakta som separate domene. Den materialistiske kritikken (h\u00f8gre): korleis nonsens vert transformert til tesar gjennom akademia, legitimert av imperialistisk vald. Kjelde: Eige illustrasjon.",
         width=Inches(5))
 
@@ -590,7 +590,7 @@ def build_section_5(doc):
     p.add_run("Desse tala, denne konkrete dokumentasjonen av utbytting, er det som forklarer imperialismen. Ikkje tekstar om India sin p\u00e5st\u00e5tte \u00aborientalske\u00bb karakter, men gjeldsmekanismar, tvangseksport og systematisk underutvikling.")
 
     # Figure 6: Den koloniale relasjonen
-    add_figure(doc, "figur_05.png", 6,
+    add_figure(doc, "figur_05.jpg", 6,
         "Den koloniale relasjonen: imperiet som subjekt, kolonien som objekt. Diskursen skjuler r\u00f8ynda: \u00abvi studerer maska, dei tek oljen.\u00bb Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -622,7 +622,7 @@ def build_section_6(doc):
     p.add_run("Parenti (1995, s. 9) dokumenterer dette m\u00f8nsteret. Dei faktiske mekanismane for imperialisme \u2014 gjeldsmekanismar, handelsavtalar, sanksjonar, milit\u00e6rbasar, etterretningsoperasjonar, st\u00f8tte til kompradorklassar \u2014 krev ikkje orientalistiske representasjonar for \u00e5 fungere. Dei opererer like effektivt i Latin-Amerika som i Midt\u00f8sten, like effektivt mot kristne som mot muslimar, like effektivt mot \u00abVesten\u00bb sine eigne arbeidsklassar som mot folk i det globale s\u00f8r.")
 
     # Figure 7: Orientalisme som diskurs
-    add_figure(doc, "figur_06.png", 7,
+    add_figure(doc, "figur_06.jpg", 7,
         "Orientalisme som diskurs, fr\u00e5 simulering til imitasjon: den skjulte r\u00f8yndomen (basis) er p\u00e5tatt. Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -664,7 +664,7 @@ def build_section_7(doc):
         "While much of the other work was framed in broadly Marxist terms and was a universalist critique, Said, eschewing materialist analysis, sought to apply literary critical methodology and to offer an analysis specific to something called \u2018the Orient.\u2019")
 
     # Figure 8: Den koloniale relasjonen
-    add_figure(doc, "figur_07.png", 8,
+    add_figure(doc, "figur_07.jpg", 8,
         "Den koloniale relasjonen: oksidenten (subjekt) og orienten (objekt). Representasjonen kan tolkast som bedrevitande eller sk\u00e5nsam, men den strukturelle asymmetrien forblir den same. Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -694,7 +694,7 @@ def build_section_8(doc):
         "If, as Said and others admit, all cultures express wayward and at times racist ideas of the \u2018other,\u2019 one needs extra-cultural explanations to uncover why colonialism and imperialism in the modern age were undertaken by European powers.")
 
     # Figure 9: Det orientalistiske prismet
-    add_figure(doc, "figur_08.png", 9,
+    add_figure(doc, "figur_08.jpg", 9,
         "Det orientalistiske prismet: korleis imperielle interesser konstruerer \u00abOrienten\u00bb som skjerm mellom betraktaren og den materielle r\u00f8yndomen. Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -745,17 +745,10 @@ def build_section_10(doc):
     p.paragraph_format.space_after = Pt(3)
     p.add_run("I Gaza utfaldar den same logikken seg. Trump har f\u00f8resl\u00e5tt \u00e5 ta over Gazastripa, tvangsflytte den palestinske befolkninga, og gjere omr\u00e5det om til ei \u00abspesiell \u00f8konomisk sone\u00bb. Her blir orientalistisk diskurs om palestinarar sekund\u00e6r til dei konkrete planane om territorium og kontroll.")
 
-    # Figure 10 - IMAGE FILE MISSING (no matching PNG found in figures/)
-    # TODO: Add figur image file for Figur 10
-    p = doc.add_paragraph(style='Normal')
-    p.paragraph_format.space_before = Pt(12)
-    p.paragraph_format.space_after = Pt(6)
-    run = p.add_run("[Figur 10: Bilete manglar]")
-    run.italic = True
-    run.font.size = Pt(9)
-    run.font.color.rgb = RGBColor(150, 150, 150)
-    cap = doc.add_paragraph(style='FigureCaption')
-    cap.add_run("Figur 10. Det finst ingen transcendent dimensjon i kapitalismen (venstre): figuren dabbar i tomrommet. Den historiske prosessen har ingenting å gjere med gjennomføringa av eit ideal (høgre). Kjelde: Eige illustrasjon.")
+    # Figure 10: Røyndom og kapitalisme
+    add_figure(doc, "figur_10.jpg", 10,
+        "Det finst ingen transcendent dimensjon i kapitalismen (venstre): figuren dabbar i tomrommet. Den historiske prosessen har ingenting \u00e5 gjere med gjennomf\u00f8ringa av eit ideal (h\u00f8gre). Kjelde: Eige illustrasjon.",
+        width=Inches(5))
 
 def build_section_11(doc):
     """11. OKSIDENTALISME: \u00c5 SNU SAID P\u00c5 HOVUDET"""
@@ -980,7 +973,7 @@ def build_section_13(doc):
     p.add_run("Forholdet er meir urovekkjande: dei eksisterer i parallelle verkelegheiter som knapt vedkjem kvarandre. Darwish formulerer sp\u00f8rsm\u00e5let som kunstverket stiller: \u00abEr dette landet verkeleg velsigna, eller d\u00f8ypt i blod?\u00bb Snikskyttarane treff m\u00e5la sine med utmerkt kvalitet. Diskursanalysen endrar ikkje kulens bane.")
 
     # Figure 11: Verket som teoretisk modell
-    add_figure(doc, "figur_09.png", 11,
+    add_figure(doc, "figur_09.jpg", 11,
         "Verket som teoretisk modell (materialistisk stratigrafi). Betraktaren ser gjennom tre lag: diskurs/representasjon (poesi, kalligrafi, ideologi), industriell infrastruktur (medium, teknologi, prismefolie), og materiell basis (makt, \u00f8konomi, imperialisme). Determinansen g\u00e5r nedanfr\u00e5 og opp. Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -1052,7 +1045,7 @@ def build_conclusion(doc):
     p.add_run("Det er i dette gapet mellom diskurs og infrastruktur at b\u00e5de kunstverket og artikkelen situerer seg: ikkje for \u00e5 fornekte diskursen si rolle, men for \u00e5 insistere p\u00e5 at kritikk som ikkje konfronterer basis forblir overflate.")
 
     # Figure 12: Røyndom
-    add_figure(doc, "figur_10.png", 12,
+    add_figure(doc, "figur_10.jpg", 12,
         "R\u00f8yndom, ikkje utanfor, spr\u00e5ket: verket insisterer p\u00e5 at det materielle og det diskursive eksisterer samstundes utan \u00e5 kansellere kvarandre. Trykkpressa som metafor: spr\u00e5ket er alltid allereie materialisert. Kjelde: Eige illustrasjon.",
         width=Inches(4.5))
 
@@ -1060,12 +1053,12 @@ def build_conclusion(doc):
 def build_artwork_figures(doc):
     """Add the full-page artwork figures at the end."""
     # Figure 13: Typografisk komposisjon
-    add_figure(doc, "cover arabic caligraphy.png", 13,
+    add_figure(doc, "cover arabic caligraphy.jpg", 13,
         "Typografisk komposisjon av dei siste linjene i Tibaq: \u00abOm eg d\u00f8yr f\u00f8r deg / Gjev eg deg det umoglege i arv / Eg spurde: Er det umoglege langt unna? / Han svara: Ein generasjon unna.\u00bb Darwish sitt testamente til Said \u2014 og til oss. Kjelde: Eige illustrasjon.",
         width=Inches(5.5))
 
     # Figure 1: Det ferdige verket (the 3-image collage)
-    add_figure(doc, "3 image collage of the palimpsest.png", 1,
+    add_figure(doc, "3 image collage of the palimpsest.jpg", 1,
         "Det ferdige verket i tre visningar. Venstre: n\u00e6rbilete gjennom prismefolien, der ljosbrytinga fragmenterer kalligrafien i spektralfargar. \u00d8vst h\u00f8gre: verket hengt opp, sett med dagslys bakfr\u00e5. Nedst h\u00f8gre: verket belyst framanfr\u00e5, der kalligrafien trer tydelegare fram mot den industrielle overflata. Kjelde: Eige fotografi.",
         width=Inches(5.5))
 
@@ -1114,7 +1107,7 @@ def build_references(doc):
         [
             ("Avanessian, A., & Hennig, A. (2015). ", False),
             ("Present tense: A poetics", True),
-            (". Bloomsbury Academic.", False),
+            (". Bloomsbury Academic. https://doi.org/10.5040/9781501304989", False),
         ],
         [
             ("Avanessian, A., & T\u00f6pfer, A. (2014). ", False),
