@@ -1,0 +1,5 @@
+{
+  "name": "Palimpsest Reader",
+  "description": "A minimal, clean, iOS-inspired reading experience for the academic article 'Palimpsest'.",
+  "requestFramePermissions": []
+}

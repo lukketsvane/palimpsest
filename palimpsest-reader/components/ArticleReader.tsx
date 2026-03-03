@@ -1,0 +1,216 @@
+'use client';
+
+import { motion, useScroll, useSpring, AnimatePresence } from 'motion/react';
+import { BookOpen, ChevronLeft, Share, Bookmark, List, X } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import Markdown from 'react-markdown';
+import { articleContent } from '@/lib/content';
+
+export default function ArticleReader() {
+  const { scrollYProgress } = useScroll();
+  const scaleX = useSpring(scrollYProgress, {
+    stiffness: 100,
+    damping: 30,
+    restDelta: 0.001
+  });
+
+  const [isTocOpen, setIsTocOpen] = useState(false);
+  const [activeSection, setActiveSection] = useState('');
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const sections = articleContent.sections.map(s => document.getElementById(s.id));
+      const scrollPosition = window.scrollY + 100;
+
+      for (let i = sections.length - 1; i >= 0; i--) {
+        const section = sections[i];
+        if (section && section.offsetTop <= scrollPosition) {
+          setActiveSection(section.id);
+          break;
+        }
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToSection = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      window.scrollTo({
+        top: element.offsetTop - 80,
+        behavior: 'smooth'
+      });
+    }
+    setIsTocOpen(false);
+  };
+
+  return (
+    <div className="min-h-screen bg-white text-black font-serif relative">
+      {/* Progress Bar */}
+      <motion.div
+        className="fixed top-0 left-0 right-0 h-1 bg-black origin-left z-50"
+        style={{ scaleX }}
+      />
+
+      {/* Header */}
+      <header className="fixed top-0 left-0 right-0 h-14 bg-white border-b-2 border-black z-40 flex items-center justify-between px-4 sm:px-6">
+        <div className="p-2 -ml-2 text-black flex items-center gap-1">
+          <span className="text-[15px] font-bold uppercase tracking-widest font-sans">iverfinne.no/palimpsest</span>
+        </div>
+        
+        <div className="flex items-center gap-2">
+          <button className="p-2 text-black hover:bg-black hover:text-white transition-colors">
+            <Share className="w-4 h-4" />
+          </button>
+          <button className="p-2 text-black hover:bg-black hover:text-white transition-colors">
+            <Bookmark className="w-4 h-4" />
+          </button>
+          <button 
+            onClick={() => setIsTocOpen(true)}
+            className="p-2 text-black hover:bg-black hover:text-white transition-colors hidden sm:block"
+          >
+            <List className="w-4 h-4" />
+          </button>
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <main className="pt-24 pb-32 px-4 sm:px-6 lg:px-12 max-w-[1400px] mx-auto">
+        <motion.article
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
+        >
+          {/* Title Section */}
+          <div className="mb-12 border-b-4 border-black pb-8">
+            <h1 className="text-4xl sm:text-6xl md:text-7xl font-black tracking-tighter mb-4 text-black uppercase leading-none">
+              {articleContent.title}
+            </h1>
+            <p className="text-xl sm:text-2xl text-black font-bold tracking-tight mb-3">
+              {articleContent.subtitle}
+            </p>
+            <p className="text-lg text-black italic mb-8">
+              {articleContent.subSubtitle}
+            </p>
+            <div className="flex items-center gap-4 text-xs text-black font-bold uppercase tracking-widest font-sans border-t-2 border-black pt-4">
+              <span>{articleContent.author}</span>
+              <span className="w-1.5 h-1.5 bg-black" />
+              <span>{articleContent.date}</span>
+              <span className="w-1.5 h-1.5 bg-black" />
+              <span>5 min read</span>
+            </div>
+          </div>
+
+          {/* Hero Images */}
+          {articleContent.hero && (
+            <div className="mb-12 border-b-4 border-black pb-12 prose prose-sm sm:prose-base prose-black max-w-none prose-img:w-full prose-img:my-8 prose-p:text-sm prose-p:text-gray-600 prose-p:italic">
+              <Markdown>{articleContent.hero}</Markdown>
+            </div>
+          )}
+
+          {/* Abstracts */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 border-b-4 border-black pb-12">
+            {articleContent.abstracts.map((abstract, idx) => (
+              <div key={idx} className="bg-white">
+                <h3 className="text-xs font-black tracking-widest uppercase text-black mb-4 font-sans border-b-2 border-black pb-2">
+                  {abstract.title}
+                </h3>
+                <p className="text-black leading-relaxed mb-6 text-sm">
+                  {abstract.content}
+                </p>
+                <p className="text-[10px] text-black font-sans border-t border-black pt-4">
+                  <span className="font-bold uppercase tracking-wider">Keywords: </span>
+                  {abstract.keywords}
+                </p>
+              </div>
+            ))}
+          </div>
+
+          {/* Sections - Two Columns */}
+          <div className="columns-1 md:columns-2 gap-12 space-y-12">
+            {articleContent.sections.map((section) => (
+              <motion.section 
+                key={section.id} 
+                id={section.id} 
+                className="scroll-mt-24 break-inside-avoid mb-12"
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true, margin: "-100px" }}
+                transition={{ duration: 0.5, ease: "easeOut" }}
+              >
+                <h2 className="text-xl sm:text-2xl font-black tracking-tight mb-4 text-black uppercase border-b-2 border-black pb-2 font-sans">
+                  {section.title}
+                </h2>
+                <div className="prose prose-sm sm:prose-base prose-black max-w-none prose-p:leading-relaxed prose-p:text-black prose-headings:font-sans prose-headings:font-black prose-headings:uppercase prose-blockquote:border-l-4 prose-blockquote:border-black prose-blockquote:bg-gray-100 prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:not-italic prose-blockquote:text-black prose-img:w-full prose-img:my-8 prose-a:text-black prose-a:font-bold prose-a:underline prose-a:decoration-2 prose-a:underline-offset-4 hover:prose-a:bg-black hover:prose-a:text-white">
+                  <Markdown>{section.content}</Markdown>
+                </div>
+              </motion.section>
+            ))}
+          </div>
+        </motion.article>
+
+        {/* Footer */}
+        <footer className="mt-24 border-t-4 border-black" />
+      </main>
+
+      {/* Floating TOC Button (Mobile) */}
+      <button
+        onClick={() => setIsTocOpen(true)}
+        className="fixed bottom-6 right-6 p-4 bg-black text-white sm:hidden z-40 hover:bg-white hover:text-black hover:border-2 hover:border-black transition-colors"
+      >
+        <List className="w-6 h-6" />
+      </button>
+
+      {/* Table of Contents Overlay */}
+      <AnimatePresence>
+        {isTocOpen && (
+          <div className="fixed inset-0 z-50 flex justify-end">
+            <motion.div 
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              onClick={() => setIsTocOpen(false)}
+              className="absolute inset-0 bg-white/90 backdrop-blur-sm"
+            />
+            <motion.div
+              initial={{ x: '100%' }}
+              animate={{ x: 0 }}
+              exit={{ x: '100%' }}
+              transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+              className="relative w-full max-w-sm bg-white h-full border-l-4 border-black flex flex-col"
+            >
+              <div className="p-4 border-b-4 border-black flex items-center justify-between bg-white">
+                <h3 className="font-black text-xl tracking-widest uppercase font-sans">Contents</h3>
+                <button 
+                  onClick={() => setIsTocOpen(false)}
+                  className="p-2 text-black hover:bg-black hover:text-white transition-colors"
+                >
+                  <X className="w-6 h-6" />
+                </button>
+              </div>
+              <div className="flex-1 overflow-y-auto p-4">
+                <nav className="space-y-2">
+                  {articleContent.sections.map((section) => (
+                    <button
+                      key={section.id}
+                      onClick={() => scrollToSection(section.id)}
+                      className={`w-full text-left px-4 py-3 text-sm font-sans font-bold uppercase tracking-wider transition-colors border-2 ${
+                        activeSection === section.id 
+                          ? 'bg-black text-white border-black' 
+                          : 'bg-white text-black border-transparent hover:border-black'
+                      }`}
+                    >
+                      {section.title}
+                    </button>
+                  ))}
+                </nav>
+              </div>
+            </motion.div>
+          </div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
