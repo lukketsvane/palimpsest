@@ -13,3 +13,8 @@ This repository contains the manuscript, build scripts, and figures for an artic
 
 ## Figure Links
 See `note.md` for direct links to the hosted images.
+
+## Vercel Deployment Settings
+When deploying this project to Vercel, ensure you configure the following settings:
+- **Root Directory**: `palimpsest-reader`
+- **Include files outside the root directory in the Build Step**: Leave this unchecked/empty. (The application fetches images using direct raw GitHub URLs, so it does not need access to the `figures/` directory during the build step).
